@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable-v24/dialogs_recycler_view_item_border.xml" value="0.2388888888888889" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/dialog_avatar_border.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_c2809c1272f6d2c4.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_chelovechek.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_events.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_gamer_computer_entertainment_headset_competitive_esports_championship_avatarplay_gaming_video_512_30_1.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_icons8_app_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_messenger.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_pngitem_191340_1.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_profile.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_search.xml" value="0.26205128205128203" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_venok.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/ic_victory_1.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/drawable/message_background.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/activity_authorization.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/chats_recycler_view_item.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/chats_recycler_view_item_border.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/dialogs_recycler_view_item.xml" value="0.264" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_authorisation.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_blank.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_events.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_messenger.xml" value="0.264" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_profile.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/hello.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/messages_recycler_view_item.xml" value="0.6" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/toolbar_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/toolbar_events.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/toolbar_messenger.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/toolbar_profile.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/layout/toolbar_search.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/fsigo/AndroidStudioProjects/TeamNet_v2/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
